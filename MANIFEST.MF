@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: com.CCB.main.Test
+Class-Path: ./lib/bcprov-ext-jdk15on-151.jar ./lib/commons-cli-1.2.jar ./lib/commons-codec-1.7.jar
+  ./lib/commons-configuration-1.6.jar ./lib/commons-io-2.1.jar ./lib/commons-lang-2.6.jar ./lib/commons-logging-1.1.1.jar
+  ./lib/guava-12.0.1.jar ./lib/hadoop-annotations-2.2.0.2.1.0.0-92.jar ./lib/hadoop-auth-2.2.0.2.1.0.0-92.jar
+  ./lib/hadoop-common-2.2.0.2.1.0.0-92.jar ./lib/hadoop-hdfs-2.2.0.2.1.0.0-92.jar
+  ./lib/hadoop-hdfs-nfs-2.2.0.2.1.0.0-92.jar ./lib/hadoop-nfs-2.2.0.2.1.0.0-92.jar
+  ./lib/hbase-client-0.96.1.2.0.6.1-102-hadoop2.jar ./lib/hbase-common-0.96.1.2.0.6.1-102-hadoop2.jar
+  ./lib/hbase-hadoop2-compat-0.96.1.2.0.6.1-102-hadoop2.jar ./lib/hbase-it-0.96.1.2.0.6.1-102-hadoop2.jar
+  ./lib/hbase-prefix-tree-0.96.1.2.0.6.1-102-hadoop2.jar ./lib/hbase-protocol-0.96.1.2.0.6.1-102-hadoop2.jar
+  ./lib/hbase-server-0.96.1.2.0.6.1-102-hadoop2.jar ./lib/hbase-shell-0.96.1.2.0.6.1-102-hadoop2.jar
+  ./lib/hbase-testing-util-0.96.1.2.0.6.1-102-hadoop2.jar ./lib/hbase-thrift-0.96.1.2.0.6.1-102-hadoop2.jar
+  ./lib/htrace-core-2.01.jar ./lib/jackson-core-asl-1.8.8.jar ./lib/jackson-mapper-asl-1.8.8.jar
+  ./lib/mysql-connector-java-5.1.38-bin.jar ./lib/netty-3.6.6.Final.jar ./lib/protobuf-java-2.5.0.jar
+  ./lib/slf4j-api-1.7.5.jar ./lib/zookeeper.jar
+ 
